@@ -1,0 +1,35 @@
+
+.product {
+    display: inline-block;
+    width: 250px;
+    height: 350px;
+    border: 1px solid #b8b8ca;
+    background-color: rgb(64, 196, 97);
+    margin-bottom: 10px;
+    margin-right: 10px;
+    padding:5px;
+        
+    
+}
+.imagesProducts{
+    width: 150px;
+    height: 250px;
+
+}
+
+.prices h5, .prices h6{
+    display:inline-block;
+    
+}
+
+.quantityPicker {
+    display: inline-block;
+    
+}
+
+
+.btn-add{
+    display: inline-block;
+    margin-left: 35px;
+    
+}
